@@ -18,7 +18,7 @@ Output: false
 
 Input: pattern = "aaaa", s = "dog cat cat dog"
 Output: false
-Example 4:
+###Example 4:
 
 Input: pattern = "abba", s = "dog dog dog dog"
 Output: false
